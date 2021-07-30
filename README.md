@@ -62,6 +62,7 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo" width="110vw">](https://www.instagram.com/joaovitorrod/)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" width="88">](https://github.com/Joaovitorrod)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" height="26">](mailto:joao.vitor.rodrigues.tele@gmail.com)
+[<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Gmail logo" height="26">](https://steamcommunity.com/id/mrmtois)
 
 
 
