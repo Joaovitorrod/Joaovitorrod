@@ -8,8 +8,7 @@
   <em>
     I am at 5th Year coursing telecommunication engineering on <b>Instituto Federal de Santa Catarina (IFSC)</b>, Brazil</a>.  
     A budding <b>Web Developer</b> and a <b>telecommunication engineer</b>&nbsp;, who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to :chart_with_upwards_trend:
-    <b>grow</b> and <b>excel.</b> 
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel.</b> 
   </em>  
 </p>
 
