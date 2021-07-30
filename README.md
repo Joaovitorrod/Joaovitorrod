@@ -6,8 +6,8 @@
 
 <p>
   <em>
-    I am at 5th Year coursing telecommunication engineering on <a href="https://www.ifsc.edu.br/web/campus-sao-jose"> <b>Instituto Federal de Santa Catarina (IFSC)</b>, Brazil</a>.  
-    A budding <b>Web Developer</b> and a <b>telecommunication engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="36px">, who is <b>obsessed</b>
+    I am at 5th Year coursing telecommunication engineering on <b>Instituto Federal de Santa Catarina (IFSC)</b>, Brazil</a>.  
+    A budding <b>Web Developer</b> and a <b>telecommunication engineer</b>&nbsp;, who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to :chart_with_upwards_trend:
     <b>grow</b> and <b>excel.</b> 
   </em>  
@@ -17,13 +17,12 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/KT2wdPEnRoGxG/giphy.gif" width="190vw" />
 <br>
 
-- <img alt="GIF" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="110vw" />. I’m *currently* **drinking it** and/or *working* on my **computer** 👨‍💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30vw" /> I’m *looking to collaborate* on **game modding  projects** which uses **C, Python, JS, XML**...<img src="https://www.freeiconspng.com/uploads/skyrim-icon--1.png" width="30vw" alt="Skyrim icon " />
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **Undergraduate thesis**:satellite:
-
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about why do I think aliens **don't communicate** with us 👽.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** I *did* a <a href="https://joaovitorrod.netlify.app/"><b>Portfolio site</b></a> 💡, but had *nothing to put in there* 😴
+- I’m *currently* **drinking a coffee** and/or *working* on my **computer**
+- I’m *looking to collaborate* on **game modding  projects** which uses **C, Python, JS, XML**...
+- I’m *looking* for *help* with **Undergraduate thesis**
+- *Ask me* about why do I think aliens **don't communicate** with us.
+- **Pronouns:** [*He/Him*](https://pronoun.is/he)
+- **Fun fact:** I *did* a <a href="https://joaovitorrod.netlify.app/"><b>Portfolio site</b></a>, but had *nothing to put in there*
 
 
 <br>
