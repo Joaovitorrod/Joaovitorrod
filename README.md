@@ -1,9 +1,8 @@
-# João Vitor &nbsp;<img src="" width="30px">
+# João Vitor &nbsp;
 
 
-<img align="right" alt="GIF" src="" width="190" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<!-- ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
 <p>
   <em>
@@ -15,7 +14,7 @@
 </p>
 
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/KT2wdPEnRoGxG/giphy.gif" width="190vw" />
 <br>
 
 - <img alt="GIF" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />. I’m *currently* **drinking it** and/or *working* on my **computer** 👨‍💻
