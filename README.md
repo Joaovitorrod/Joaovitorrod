@@ -18,7 +18,7 @@
 <br>
 
 - <img alt="GIF" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="110vw" />. I’m *currently* **drinking it** and/or *working* on my **computer** 👨‍💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *looking to collaborate* on **game modding  projects**.<img src="https://www.freeiconspng.com/uploads/skyrim-icon--1.png" width="30vw" alt="Skyrim icon " />
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30vw" /> I’m *looking to collaborate* on **game modding  projects**.<img src="https://www.freeiconspng.com/uploads/skyrim-icon--1.png" width="30vw" alt="Skyrim icon " />
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **Undergraduate thesis**:satellite:
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens don't communicate with us 👽.**
