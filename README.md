@@ -21,7 +21,7 @@
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30vw" /> I’m *looking to collaborate* on **game modding  projects** which uses **C, Python, JS, XML**...<img src="https://www.freeiconspng.com/uploads/skyrim-icon--1.png" width="30vw" alt="Skyrim icon " />
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **Undergraduate thesis**:satellite:
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens don't communicate with us 👽.**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about why do I think aliens **don't communicate** with us 👽.
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** I *did* a <a href="https://joaovitorrod.netlify.app/"><b>Portfolio site</b></a> 💡, but had *nothing to put in there* 😴
 
