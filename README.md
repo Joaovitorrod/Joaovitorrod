@@ -17,7 +17,7 @@
 <br>
 
 - I’m *currently* **drinking a coffee** and/or *working* on my **computer**
-- I’m *looking to collaborate* on **game modding  projects** which uses **C, Python, JS, XML**...
+- I’m *looking to collaborate* on **game modding  projects** which uses **C, Python, JS, Java**...
 - I’m *looking* for *help* with **Undergraduate thesis**
 - *Ask me* about why do I think aliens **don't communicate** with us.
 - **Pronouns:** [*He/Him*](https://pronoun.is/he)
