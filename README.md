@@ -21,7 +21,7 @@
 - I’m *looking* for *help* with **Undergraduate thesis**
 - *Ask me* about why do I think aliens **don't communicate** with us.
 - **Pronouns:** [*He/Him*](https://pronoun.is/he)
-- **Fun fact:** I *did* a <a href="https://joaovitorrod.netlify.app/"><b>Portfolio site</b></a>, but had *nothing to put in there*
+<!-- - **Fun fact:** I *did* a <a href="https://joaovitorrod.netlify.app/"><b>Portfolio site</b></a>, but had *nothing to put in there* -->
 
 
 <br>
