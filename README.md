@@ -45,7 +45,6 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitorrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -71,7 +70,9 @@
 
 <br>
 <br>
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitorrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Joaovitorrod)
