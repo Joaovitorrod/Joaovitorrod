@@ -44,8 +44,9 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitorrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitorrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 <!-- <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
