@@ -30,7 +30,7 @@
 <div align="center">
  <table>
 
-  | I’m *currently learning*: 	| Yes, I *can*: <img align="center" src="https://media.giphy.com/media/C7vI9SlliHtp6o478J/giphy.gif" width="100vw">	| I’d *already used*: 	|
+  | I’m *currently learning*: 	| Yes, I *can*: 	| I’d *already used*: 	|
   |:-------------------------:	|:-------------:	|:-------------------:	|
   | <img alt="GIF" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> | <img alt="GIF" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | <img alt="GIF" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> |
   | <img alt="GIF" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />     	| <img alt="GIF" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />             	| <img alt="GIF" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />                   	|
