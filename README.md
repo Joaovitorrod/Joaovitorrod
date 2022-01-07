@@ -18,7 +18,7 @@
 
 - I’m *currently* **drinking a coffee** and/or *working* on my **computer**
 - I’m *looking to collaborate* on **game modding  projects** which uses **C, Python, JS, Java**...
-- I’m *looking* for *help* with **Undergraduate thesis**
+- I’m *looking* for *help* with **Stardew Valley**, my farm is way too small
 - *Ask me* about why do I think aliens **don't communicate** with us.
 - **Pronouns:** [*He/Him*](https://pronoun.is/he)
 <!-- - **Fun fact:** I *did* a <a href="https://joaovitorrod.netlify.app/"><b>Portfolio site</b></a>, but had *nothing to put in there* -->
