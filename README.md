@@ -13,7 +13,7 @@
 </p>
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/KT2wdPEnRoGxG/giphy.gif" width="190vw" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/KT2wdPEnRoGxG/giphy.gif" width="50vw" />
 <br>
 
 - I’m *currently* **drinking a coffee** and/or *working* on my **computer**
