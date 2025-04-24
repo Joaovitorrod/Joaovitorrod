@@ -1,4 +1,5 @@
 ## 👋 Hey, I'm João Vitor Rodrigues
+Telecom Engineer & Infra Dev | Python, C++, SQL | Building AI-ready voice systems
 
 I'm a **Telecommunications Engineer** and **Infrastructure-focused Backend Developer**, working at the intersection of **real-time communication**, **systems engineering**, and **AI-driven pipelines**. I bring a unique blend of telecom protocol knowledge, backend experience, and automation skills to build practical, high-impact systems.
 
@@ -6,6 +7,7 @@ I'm a **Telecommunications Engineer** and **Infrastructure-focused Backend Devel
 - Languages: **Python**, **Bash**, **SQL**, with experience in **C++**, **JavaScript**, and **PHP**
 - Systems: Backend development using **Java**, **Spring Boot**, **Kafka**, **PostgreSQL**
 - Protocols: Deep understanding of **VoIP**, **SIP**, and **RTC** from my telecom background
+- DevOps Focus: Currently pursuing a **postgraduate specialization in DevOps & Continuous Engineering** at **PUC-MG**
 - AI Integration: Currently exploring **Whisper**, **GPT-4**, and other LLMs to design audio-to-insight pipelines
 
 🧠 Currently building a **Voice Intelligence Pipeline**:
