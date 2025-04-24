@@ -18,10 +18,6 @@ I'm a **Telecommunications Engineer** and **Infrastructure-focused Backend Devel
 
 🌍 Seeking remote roles in **AI-integrated infrastructure**, **backend systems**, or **communications platforms**.
 
-📫 Let’s connect:
-- [LinkedIn](https://www.linkedin.com/in/joaovitorrod)
-- [GitHub](https://github.com/Joaovitorrod)
-
 > Code meets comms. Infra meets AI. Systems built to scale.
 
 
