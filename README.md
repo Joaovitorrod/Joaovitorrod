@@ -1,57 +1,28 @@
-# João Vitor &nbsp;
+## 👋 Hey, I'm João Vitor Rodrigues
+
+I'm a **Telecommunications Engineer** and **Infrastructure-focused Backend Developer**, working at the intersection of **real-time communication**, **systems engineering**, and **AI-driven pipelines**. I bring a unique blend of telecom protocol knowledge, backend experience, and automation skills to build practical, high-impact systems.
+
+🔧 Core strengths:
+- Languages: **Python**, **Bash**, **SQL**, with experience in **C++**, **JavaScript**, and **PHP**
+- Systems: Backend development using **Java**, **Spring Boot**, **Kafka**, **PostgreSQL**
+- Protocols: Deep understanding of **VoIP**, **SIP**, and **RTC** from my telecom background
+- AI Integration: Currently exploring **Whisper**, **GPT-4**, and other LLMs to design audio-to-insight pipelines
+
+🧠 Currently building a **Voice Intelligence Pipeline**:
+> Audio ➝ transcription ➝ summarization ➝ AI-driven sentiment & insights  
+> Demonstrating orchestration, real-time data handling, and multi-AI integration
+
+🛠️ Previously worked as a **backend developer for 9 months**, contributing to systems in **C++** and **PHP/JavaScript** environments—bringing efficiency and scalability to production services.
+
+🌍 Seeking remote roles in **AI-integrated infrastructure**, **backend systems**, or **communications platforms**.
+
+📫 Let’s connect:
+- [LinkedIn](https://www.linkedin.com/in/joaovitorrod)
+- [GitHub](https://github.com/Joaovitorrod)
+
+> Code meets comms. Infra meets AI. Systems built to scale.
 
 
-
-<!-- ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
-
-<p>
-  <em>
-    I am at 5th Year coursing telecommunication engineering on <b>Instituto Federal de Santa Catarina (IFSC)</b>, Brazil</a>.  
-    A budding <b>Web Developer</b> and a <b>telecommunication engineer</b>&nbsp;, who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel.</b> 
-  </em>  
-</p>
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/KT2wdPEnRoGxG/giphy.gif" width="190px" />
-<br>
-
-- I’m *currently* **drinking a coffee** and/or *working* on my **computer**
-- I’m *looking to collaborate* on **game modding  projects** which uses **C, Python, JS, Java**...
-- I’m *looking* for *help* with **Stardew Valley**, my farm is way too small
-- *Ask me* about why do I think aliens **don't communicate** with us.
-- **Pronouns:** [*He/Him*](https://pronoun.is/he)
-<!-- - **Fun fact:** I *did* a <a href="https://joaovitorrod.netlify.app/"><b>Portfolio site</b></a>, but had *nothing to put in there* -->
-
-
-<br>
-<br>
-<br>
-<div align="center">
- <table>
-
-  | I’m *currently learning*: 	| Yes, I *can*: 	| I’d *already used*: 	|
-  |:-------------------------:	|:-------------:	|:-------------------:	|
-  | <img alt="GIF" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> | <img alt="GIF" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | <img alt="GIF" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> |
-  | <img alt="GIF" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />     	| <img alt="GIF" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />             	| <img alt="GIF" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />                   	|
-  | <img alt="GIF" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />      	| <img alt="GIF" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />             	| <img alt="GIF" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>                   	|
-  | <img alt="GIF" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 	  | <img alt="GIF" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />             	| <img alt="GIF" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />                   	|
-  | 	| <img alt="GIF" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />             	| <img alt="GIF" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />                 	|
-  |  	| <img alt="GIF" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />             	| <img alt="GIF" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />                  	|
-  |  	| <img alt="GIF" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />             	| <img alt="GIF" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />                   	|
-
- </table>
-</div>
-<br>
-
-
-
-
-
-<!-- <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitorrod&layout=compact"/>
-</p>
- -->
 <br>
 <br>
 
